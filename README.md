@@ -24,7 +24,7 @@ This guide will help you build a Telegram chatbot that can communicate with your
    - Click on `Extensions` > `Apps Script` to open the Google Apps Script editor.
 
 2. **Write the Script**:
-   Here, we will write a script that fetches data from your Google Sheet and sends it as a message to your Telegram bot. You can take a look at the code example I provided in the file `code.js`.
+   Here, we will write a script that fetches data from your Google Sheet and sends it as a message to your Telegram bot. You can take a look at the code example I provided in the file `telegram_chatbot_code.js`.
 
 **Understand the Script:**
 
