@@ -56,7 +56,7 @@ If you want the bot to automatically notify you about updates, you can set up an
 *Time-Driven Trigger:
 
 - Click the clock icon (`Triggers`) in the Apps Script editor.
-- Create a new time-based trigger to run sendTelegramNotification.
+- Create a new time-based trigger to run `sendTelegramNotification`.
 - Set the trigger to run, for example, every hour or daily, depending on how often you want updates.
 
 
