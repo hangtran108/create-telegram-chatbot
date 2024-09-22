@@ -49,5 +49,15 @@ This guide will help you build a Telegram chatbot that can communicate with your
 
 2. **Run the Script Manually:** You can manually trigger the function by clicking the play button in the Apps Script editor. This should send a test notification with data from your Google Sheets.
 
+## Step 4: Automate Notifications
+
+If you want the bot to automatically notify you about updates, you can set up an automated trigger in Google Apps Script to run at specified intervals.
+
+*Time-Driven Trigger:
+
+- Click the clock icon (`Triggers`) in the Apps Script editor.
+- Create a new time-based trigger to run sendTelegramNotification.
+- Set the trigger to run, for example, every hour or daily, depending on how often you want updates.
+
 
 
